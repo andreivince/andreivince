@@ -1,7 +1,7 @@
 ### Hey! I'm Andrei Vince 👋
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning database
 
 <div>
   <a href="https://github.com/andreivince">
