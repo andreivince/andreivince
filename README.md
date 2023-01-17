@@ -1,6 +1,6 @@
 ### Hey! I'm Andrei Vince 👋
 
-- 🔭 The languages that I have knowledge of:
+The languages that I have knowledge of:
 
   
 <div style="display: inline_block"><br>
