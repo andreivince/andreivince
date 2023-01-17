@@ -1,7 +1,6 @@
 ### Hey! I'm Andrei Vince 👋
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning database
+- 🔭 The languages that I have knowledge of:
 
   
 <div style="display: inline_block"><br>
