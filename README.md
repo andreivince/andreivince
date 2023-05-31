@@ -2,7 +2,8 @@
 
 The languages that I have knowledge of:
 - Python
-- JavaScript (Basic)
+- JavaScript
 - SQL
 - HTML & CSS
+- Swift
   
