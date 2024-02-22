@@ -6,4 +6,6 @@ The languages that I have knowledge of:
 - SQL
 - HTML & CSS
 - Swift
+- React Native
+- R
   
