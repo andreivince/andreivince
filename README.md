@@ -1,19 +1,29 @@
-# Andrei Vince – Cloud Engineer & Builder 🛠️
+# Andrei Vince
 
-I’m building cloud-native backend systems with a focus on speed, observability, and cost-efficiency.
+Backend & Cloud Engineer focused on systems that scale fast, cost little, and stay online.
 
-Currently designing a real-time market data pipeline using AWS CDK (TypeScript), Lambda, DynamoDB, and API Gateway. Fully serverless. Fully IaC. Goal: 1M+ requests/month with p95 latency under 150ms and infra cost <$10/month.
+I build infrastructure that behaves like software — measurable, minimal, and built to survive.
 
-I care about:
-- Clean infrastructure as code
-- Production-grade architecture
-- GitHub Actions & CI/CD for automated, lean deployments
-- Documenting my learning and execution in public
+**Now**
+- SWE Intern @ **SuperKey** — architecting real-time Salesforce → AWS RDS sync with API Gateway + Lambda.  
+  Building full IaC stacks with AWS CDK and production monitoring via CloudWatch / Chatbot.
+- Developing **MarketStream**, an open-source AWS pipeline template for real-time data ingestion.  
+  Benchmarked at 2.3M events in 88 min with p95 latency at 53 ms.
+- Continuing research at UNC Charlotte on **AI-driven architectural generation** — LLMs, 3D Cellular Automata, and Diffusion models.  
+  Poster accepted to **SIGGRAPH Asia 2025**.
 
-🛠️ **Core Stack:**  
-`AWS CDK` • `Lambda` • `DynamoDB` • `API Gateway` • `TypeScript` • `CloudWatch/X-Ray`
+**Previously**
+- Research intern @ UNC Charlotte × SABRI Lab — generative geometry automation using Python, Rhino, and Stable Diffusion.  
+- Built **Vesper**, a voice AI assistant powering my portfolio (Next.js + FastAPI + OpenAI Realtime API).  
+- **HackGT 12 Winner** — Best Developer Tool (Warp track).
 
-📬 Let’s connect:  
-[andreivince.com](https://andreivince.com) | [LinkedIn](https://linkedin.com/in/andreivince)
+**Stack**
+AWS (CDK · Lambda · API Gateway · DynamoDB Streams · RDS · S3 · SQS · CloudWatch/X-Ray)  
+TypeScript · Python · Go · FastAPI · Next.js · SwiftUI · Terraform
 
-<!-- pinned projects below -->
+**Principles**
+> Small systems, big leverage.  
+> Code and infrastructure are the same craft.  
+> Reliability is not optional.
+
+**andreivince.com** · [LinkedIn](https://linkedin.com/in/andreivince) · hi@andreivince.com
