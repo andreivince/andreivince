@@ -1,6 +1,6 @@
 # Andrei Vince
 
-Backend & Cloud Engineer focused on systems that scale fast, cost little, and stay online.
+Software Engineer focused on systems that scale fast, cost little, and stay online.
 
 I build infrastructure that behaves like software — measurable, minimal, and built to survive.
 
