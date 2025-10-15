@@ -22,5 +22,5 @@ TypeScript · Python · Go · FastAPI · Next.js · SwiftUI · Terraform
 > Code and infrastructure are the same craft.  
 > Reliability is not optional.
 
-**andreivince.com** · [LinkedIn](https://linkedin.com/in/andreivince) · hi@andreivince.com
+**andreivince.com** · [LinkedIn](https://linkedin.com/in/andreivince) 
 
