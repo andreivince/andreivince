@@ -19,4 +19,4 @@ I build AI systems that move beyond demos: documents, agents, infrastructure, ma
 AWS (CDK · Lambda · API Gateway · DynamoDB Streams · RDS · S3 · SQS · CloudWatch/X-Ray)  
 TypeScript · Python · Go · FastAPI · Next.js · SwiftUI · Terraform
 
-**andreivince.com** · [LinkedIn](https://linkedin.com/in/andreivince) 
+[andreivince.com](https://andreivince.com) · [LinkedIn](https://linkedin.com/in/andreivince) 
