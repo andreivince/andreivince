@@ -1,26 +1,22 @@
 # Andrei Vince
 
-Software Engineer focused on systems that scale fast, cost little, and stay online.
+trying to become tony stark.
 
-I build infrastructure that behaves like software — measurable, minimal, and built to survive.
+I build AI systems that move beyond demos: documents, agents, infrastructure, markets, and sensors.
 
 **Now**
-- SWE Intern @ **SuperKey** — basically creating the next unicorn and crushing every task 
-- Developing **MarketStream**, an open-source AWS pipeline template for real-time data ingestion. Benchmarked at 2.3M events in 88 min with p95 latency at 53 ms.
-- Continuing research at UNC Charlotte on **AI-driven architectural generation** — LLMs, 3D Cellular Automata, and Diffusion models. Accepted to **SIGGRAPH Asia 2025**.
+- SWE @ **SuperKey**, building AI + infra for insurance ops
+- Published at **SIGGRAPH Asia 2025** for AI-driven architectural generation
+- Working on agent reliability benchmarks and multi-agent trading simulations
 
-**Previously**
-- Built **Vesper**, a voice AI assistant powering my portfolio (Next.js + FastAPI + OpenAI Realtime API).  
-- **HackGT 12 Winner** — Best Developer Tool (Warp track).
+**Stuff I'm proud of**
+- **MarketStream**: 2.3M serverless events in 88 min, 53 ms p95
+- **architecture-ai-engine**: voxel towers + diffusion rendering, SIGGRAPH Asia 2025
+- **InfraBlocks**: HackGT 12 Best Developer Tool
+- **Neevel**: fall-prevention system that placed 2nd at Stanford SCL
 
 **Stack**
 AWS (CDK · Lambda · API Gateway · DynamoDB Streams · RDS · S3 · SQS · CloudWatch/X-Ray)  
 TypeScript · Python · Go · FastAPI · Next.js · SwiftUI · Terraform
 
-**Principles**
-> Small systems, big leverage.  
-> Code and infrastructure are the same craft.  
-> Reliability is not optional.
-
 **andreivince.com** · [LinkedIn](https://linkedin.com/in/andreivince) 
-
