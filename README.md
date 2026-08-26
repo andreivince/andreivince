@@ -1,17 +1,18 @@
 # Andrei Vince
 
-trying to become tony stark.
+AI systems engineer and researcher.
 
-I build AI systems that move beyond demos: documents, agents, infrastructure, markets, and sensors.
+I build reliable agents, cloud infrastructure, and applied AI systems that move beyond demos.
 
 **Now**
 
-- SWE @ **SuperKey**, building AI + infra for insurance ops
+- Software Engineer @ **SuperKey**, building AI and infrastructure for insurance operations
+- Undergraduate researcher and Computer Engineering student @ **UNC Charlotte**
 - Published at **SIGGRAPH Asia 2025** and **ACSA 2026**
 - First author of [**ACID-Bench**](https://openreview.net/forum?id=B1DEDEWsdV), accepted to and presented as a poster at the KDD 2026 Workshop on Evaluation and Trustworthiness of Agentic AI
 - Working on agent reliability benchmarks and multi-agent trading simulations
 
-**Stuff I'm proud of**
+**Selected work**
 
 - [**ACID-Bench**](https://openreview.net/forum?id=B1DEDEWsdV): deterministic fault-injection benchmark for transactional reliability in tool-using agents, presented at KDD 2026 in Jeju
 - **MarketStream**: 2.3M serverless events in 88 min, 53 ms p95
@@ -25,4 +26,4 @@ AWS (CDK · Lambda · API Gateway · DynamoDB Streams · RDS · S3 · SQS · Clo
 
 TypeScript · Python · Go · FastAPI · Next.js · SwiftUI · Terraform
 
-[andreivince.com](https://andreivince.com) · [LinkedIn](https://linkedin.com/in/andreivince)
+[About](https://www.andreivince.com/about) · [Portfolio](https://www.andreivince.com/portfolio) · [Research](https://www.andreivince.com/research) · [Google Scholar](https://scholar.google.com/citations?user=qkEICJsAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0003-6422-4142) · [LinkedIn](https://www.linkedin.com/in/andreivince/)
