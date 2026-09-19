@@ -6,7 +6,7 @@ I build reliable agents, cloud infrastructure, and applied AI systems that move 
 
 **Now**
 
-- Software Engineer @ **SuperKey**, building AI and infrastructure for insurance operations
+- Previously a Software Engineer @ **SuperKey** (Aug 2025 - Sep 2026), building AI and infrastructure for insurance operations
 - Undergraduate researcher and Computer Engineering student @ **UNC Charlotte**
 - Published at **SIGGRAPH Asia 2025** and **ACSA 2026**
 - First author of [**ACID-Bench**](https://openreview.net/forum?id=B1DEDEWsdV), accepted to and presented as a poster at the KDD 2026 Workshop on Evaluation and Trustworthiness of Agentic AI
@@ -26,4 +26,4 @@ AWS (CDK · Lambda · API Gateway · DynamoDB Streams · RDS · S3 · SQS · Clo
 
 TypeScript · Python · Go · FastAPI · Next.js · SwiftUI · Terraform
 
-[About](https://www.andreivince.com/about) · [Portfolio](https://www.andreivince.com/portfolio) · [Research](https://www.andreivince.com/research) · [Google Scholar](https://scholar.google.com/citations?user=qkEICJsAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0003-6422-4142) · [LinkedIn](https://www.linkedin.com/in/andreivince/)
+[About](https://www.andreivince.com/about) · [Portfolio](https://www.andreivince.com/) · [Research](https://www.andreivince.com/research) · [Google Scholar](https://scholar.google.com/citations?user=qkEICJsAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0003-6422-4142) · [LinkedIn](https://www.linkedin.com/in/andreivince/)
