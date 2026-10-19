@@ -18,7 +18,7 @@ I build reliable agents, cloud infrastructure, and applied AI systems that move 
 - **MarketStream**: 2.3M serverless events in 88 min, 53 ms p95
 - **architecture-ai-engine**: voxel towers + diffusion rendering, SIGGRAPH Asia 2025
 - **InfraBlocks**: HackGT 12 Best Developer Tool
-- **Neevel**: fall-prevention system that placed 2nd at Stanford SCL
+- **Neevel**: fall-prevention system that placed 2nd at Stanford SCL and is a finalist at the Design for a Better World Award 2026
 
 **Stack**
 
