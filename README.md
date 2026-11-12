@@ -14,7 +14,7 @@ I build reliable agents, cloud infrastructure, and applied AI systems that move 
 
 **Selected work**
 
-- [**ACID-Bench**](https://openreview.net/forum?id=B1DEDEWsdV): deterministic fault-injection benchmark for transactional reliability in tool-using agents, presented at KDD 2026 in Jeju
+- [**ACID-Bench**](https://acid-bench.vercel.app/): open fault-injection benchmark for transactional reliability in tool-using agents, presented at KDD 2026 in Jeju ([code](https://github.com/andreivince/acid-bench), [traces](https://huggingface.co/datasets/andreivince/acid-bench-traces), [paper](https://openreview.net/forum?id=B1DEDEWsdV))
 - **MarketStream**: 2.3M serverless events in 88 min, 53 ms p95
 - **architecture-ai-engine**: voxel towers + diffusion rendering, SIGGRAPH Asia 2025
 - **InfraBlocks**: HackGT 12 Best Developer Tool
